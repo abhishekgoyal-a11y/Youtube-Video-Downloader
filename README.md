@@ -17,3 +17,9 @@ python YoutubeVideoDownloader.py
 
 # Screenshots
 ![Screenshot (235)](https://user-images.githubusercontent.com/58354473/104275691-58ce3200-54c9-11eb-9f0c-5d3296c3364e.png)
+
+
+# Steps
+  * git clone https://github.com/abhishekgoyal-a11y/Youtube-Video-Downloader.git
+  * go inside Youtube-Video-Downloader folder
+  * Open Command Terminal and type python YoutubeVideoDownloader.py
